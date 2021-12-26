@@ -20,7 +20,7 @@
   ul,li{
     font-size: 0.9em;
     text-align: left;
-    font-family: Calibri;
+    font-family: $sans-serif;
   }
   ul {
     margin: 0;
@@ -54,7 +54,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
+  font-family: $sans-serif;
 
   a + a {
     opacity: 0.5;
