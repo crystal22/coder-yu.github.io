@@ -23,8 +23,16 @@
       </list>
     </option>
   </component>
+  <component name="ProjectId" id="22s5dVo6cuNB5RsoEGGcedKuODa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../QRec" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -91,11 +99,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ede3b1c3-f0ac-4bee-bcba-9759c967edb0" name="Default Changelist" comment="" />
+      <changelist id="c9253bf9-55b8-44f3-a10a-9cfcd40dd2df" name="Default Changelist" comment="" />
       <created>1640501002149</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640501002149</updated>
+      <workItem from="1640613543700" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="initialization">
       <created>1640502137876</created>
@@ -335,26 +344,36 @@
       <option name="project" value="LOCAL" />
       <updated>1640542706134</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="initialization">
+      <created>1640613831311</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1640613831311</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialization" />
     <option name="LAST_COMMIT_MESSAGE" value="initialization" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="523" y="124" key="CommitChangelistDialog2" timestamp="1640542705171">
+    <state x="523" y="124" key="CommitChangelistDialog2" timestamp="1640613830579">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="523" y="124" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1640542705171" />
+    <state x="523" y="124" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1640613830579" />
     <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1640605315614">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1640605315614" />
-    <state x="552" y="260" key="Vcs.Push.Dialog.v2" timestamp="1640542707533">
+    <state x="552" y="260" key="Vcs.Push.Dialog.v2" timestamp="1640613836134">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1640542707533" />
+    <state x="552" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1640613836134" />
     <state x="726" y="434" key="git4idea.ui.GitResetDialog" timestamp="1640542252965">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
