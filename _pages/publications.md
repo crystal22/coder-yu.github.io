@@ -13,7 +13,7 @@ You can find my full publication on my [Google Scholar profile](https://scholar.
 + Fast-adapting and Privacy-preserving Federated Recommender System. <i><b>VLDBJ'21</b></i> [[code]]()
   +  Qinyong Wang, Hongzhi Yin, Tong Chen, <b>Junliang Yu</b>, Alexander Zhou, Xiangliang Zhang 
 + Self-Supervised Graph Co-Training for Session-based Recommendation. <i><b>CIKM'21</b></i> [[code]](https://github.com/xiaxin1998/COTREC)
-  +  Xin Xia, Hongzhi Yin, <b>Junliang Yu</b> Junliang Yu, Yingxia Shao, Lizhen Cui
+  +  Xin Xia, Hongzhi Yin, <b>Junliang Yu</b>, Yingxia Shao, Lizhen Cui
 + Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation. <i><b>CIKM'21</b></i> [[code]](https://github.com/0411tony/HHGR)
   +  Junwei Zhang, Min Gao, <b>Junliang Yu</b>, Lei Guo, Jundong Li, Hongzhi Yin
 + Socially-Aware Self-Supervised Tri-Training for Recommendation. <i><b>KDD'21</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/SEPT.py)
