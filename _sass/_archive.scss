@@ -14,11 +14,11 @@
     @include prefix(0.5 of 12);
   }
   p {
-    font-size: 1em;
+    font-size: 0.95em;
     text-align: justify;
   }
   ul,li,dl{
-    font-size: 1em;
+    font-size: 0.95em;
     text-align: left;
     font-family: $sans-serif;
   }
