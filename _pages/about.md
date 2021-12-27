@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
 Hi! This is Junliang Yu, a third-year Ph.D. student of Computer Science at The University of Queensland. I am jointly supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home), and [Prof. Zi (Helen) Huang](https://staff.itee.uq.edu.au/huang/). I received my Bachelor and Master degrees at Chongqing University. My research interests lie on recommender systems, social media analytics, deep learning on graphs, and self-supervised learning, with a particular focus on self-supervised recommendation.
 
 ## Latest News 
