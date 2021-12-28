@@ -37,5 +37,5 @@ Xin Xia, Hongzhi Yin, <u>Junliang Yu</u>, Qinyong Wang, Lizhen Cui, Xiangliang Z
   
 <h3>Preprints</h3>
 
-+ <b>Graph Augmentation-Free Contrastive Learning for Recommendation. [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/GACL.py) <br>
++ <b>Graph Augmentation-Free Contrastive Learning for Recommendation</b>. [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/GACL.py) <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Lizhen Cui, Quoc Viet Hung Nguyen
