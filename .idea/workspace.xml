@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9253bf9-55b8-44f3-a10a-9cfcd40dd2df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_sass/_archive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_archive.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,14 +108,7 @@
       <workItem from="1640617554180" duration="883000" />
       <workItem from="1640622618105" duration="8463000" />
       <workItem from="1640635215295" duration="2564000" />
-      <workItem from="1640715662945" duration="1227000" />
-    </task>
-    <task id="LOCAL-00017" summary="initialization">
-      <created>1640530657424</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1640530657424</updated>
+      <workItem from="1640715662945" duration="1923000" />
     </task>
     <task id="LOCAL-00018" summary="initialization">
       <created>1640530974091</created>
@@ -453,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640716505737</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="initialization">
+      <created>1640716895881</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1640716895881</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,18 +464,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="initialization" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="523" y="124" key="CommitChangelistDialog2" timestamp="1640716505031">
+    <state x="523" y="124" key="CommitChangelistDialog2" timestamp="1640716895169">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="523" y="124" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1640716505031" />
+    <state x="523" y="124" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1640716895169" />
     <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1640619024628">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1640619024628" />
-    <state x="552" y="260" key="Vcs.Push.Dialog.v2" timestamp="1640716506922">
+    <state x="552" y="260" key="Vcs.Push.Dialog.v2" timestamp="1640716896837">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1640716506922" />
+    <state x="552" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1640716896837" />
     <state x="643" y="273" width="634" height="534" key="find.popup" timestamp="1640622738607">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
