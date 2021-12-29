@@ -32,10 +32,10 @@ Xin Xia, Hongzhi Yin, <u>Junliang Yu</u>, Qinyong Wang, Lizhen Cui, Xiangliang Z
 
 <h3>Tutorials</h3>
 
-+ <b>[Self-Supervised Learning in Recommendation: Fundamentals and Advances](). </b> <i><b>WWW'22</b></i> [[website]](https://ssl-recsys.github.io/). <br>
++ <b>[Self-Supervised Learning in Recommendation: Fundamentals and Advances](). </b> <i><b>WWW'22</b></i> [[website]](https://ssl-recsys.github.io/) <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Tong Chen
   
 <h3>Preprints</h3>
 
-+ <b>[Graph Augmentation-Free Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679) </b> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/GACL.py). <br>
++ <b>[Graph Augmentation-Free Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679). </b> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/GACL.py) <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Lizhen Cui, Quoc Viet Hung Nguyen
