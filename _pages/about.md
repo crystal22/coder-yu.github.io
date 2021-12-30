@@ -31,5 +31,6 @@ Hi! This is Junliang Yu, a third-year Ph.D. student of Computer Science at The U
 ## Featured Project
 <a href="https://github.com/Coder-Yu/QRec"> <img src="https://raw.githubusercontent.com/Coder-Yu/QRec/master/logo.png" width="290px" alt="logo" border="0"></a><br>
 <p float="left"> <a href="https://github.com/Coder-Yu/QRec/stargazers"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Coder-Yu/QRec"/> </a> <a href="https://github.com/Coder-Yu/QRec/network/members"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/Coder-Yu/QRec"/> </a> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Coder-Yu/QRec"></p> 
-You can find all the implementations of my papers in QRec
+<p>QRec is a Python framework for recommender systems (Supported by Python 3.7.4 and Tensorflow 1.14+) in which a number of influential and newly state-of-the-art recommendation models are implemented. QRec has a lightweight architecture and provides user-friendly interfaces. It can facilitate model implementation and evaluation.</p>
+
 
