@@ -34,6 +34,5 @@ Hi! This is Junliang Yu, a third-year Ph.D. student of Computer Science at The U
 <p>QRec is a Python framework for recommender systems (Supported by Python 3.7.4 and Tensorflow 1.14+) in which a number of influential and newly state-of-the-art recommendation models are implemented. QRec has a lightweight architecture and provides user-friendly interfaces. It can facilitate model implementation and evaluation.</p>
 
 <hr>
-<br>
 <div class="visit-track" style="width:300px"><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4z_JS_ux0K7E2Nkh4jSJlCMC4Xi0JNIiy1ykUPk_i4g&cl=ffffff&w=a"></script></div>
 
