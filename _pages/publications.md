@@ -7,7 +7,7 @@ author_profile: true
 
 You can find my full publication on my [Google Scholar profile](https://scholar.google.com/citations?user=JGuWOUIAAAAJ&hl=EN&oi=ao).
 
-\*All the codes of my papers (first authorship) should be run under my opensource framework [QRec](https://github.com/Coder-Yu/QRec). 
+\*All the codes of my papers (first authorship) should be run with my opensource framework [QRec](https://github.com/Coder-Yu/QRec). I am always working towards reproducible research and constantly maintaining my code and project. If you have any questions about my papers, please drop me an email or raise an issue on my Github. I will respond at my earliest convenience.
 
 <h3>Research Papers</h3>
 
