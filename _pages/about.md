@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! This is Junliang Yu, a third-year Ph.D. student of Computer Science at The University of Queensland. I am jointly supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home), and [Prof. Zi (Helen) Huang](https://staff.itee.uq.edu.au/huang/). I received my Bachelor and Master degrees at Chongqing University. My research interests lie on recommender systems, social media analytics, deep learning on graphs, and self-supervised learning, with a particular focus on self-supervised recommendation.
+Hi! This is Junliang Yu, a third-year Ph.D. student of Computer Science at The University of Queensland. I am jointly supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home), and [Prof. Zi (Helen) Huang](https://staff.itee.uq.edu.au/huang/). I completed my Bachelor and Master degrees at Chongqing University. My research interests lie in recommender systems, social media analytics, deep learning on graphs, and self-supervised learning, with a particular focus on self-supervised recommendation.
 
 ## Latest News 
 - [20/12/2021] One tutorial proposal on self-supervised recommendation is accepted by WWW'22.
