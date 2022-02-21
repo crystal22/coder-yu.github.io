@@ -21,7 +21,7 @@ Hi! This is Junliang Yu, a third-year Ph.D. student of Computer Science at The U
 - [02/10/2020] One paper on graph convolutional networks and generative adversarial networks is accepted by IEEE TKDE.
 
 ## Academic Services
-+ <b>PC Member</b>: IJCAI'21, CIKM'21, AAAI'22, IJCAI'22
++ <b>PC Member</b>: IJCAI'21, CIKM'21, AAAI'22, IJCAI'22, CIKM'22
 + <b>Reviewer</b>: TOIS, TKDE, TIST, TNNLS, etc
 
 ## Teaching
