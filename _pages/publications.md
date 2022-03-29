@@ -33,16 +33,16 @@ Qinyong Wang, Hongzhi Yin, Tong Chen, <u>Junliang Yu</u>, Alexander Zhou, Xiangl
 + [Enhancing Social Recommendation with Adversarial Graph Convolutional Networks](https://ieeexplore.ieee.org/document/9239885).  <i><b>TKDE'20</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/ESRF.py) <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Jundong Li, Min Gao, Zi Huang, Lizhen Cui
 
+<h3>Preprints</h3>
+
++ [Graph Augmentation-Free Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679).  [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/GACL.py) <br>
+<u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Lizhen Cui, Quoc Viet Hung Nguyen
++ [Self-Supervised Learning for Recommender Systems: A Survey](https://www.dropbox.com/s/a7dcle7fyi7l2t7/survey.pdf?dl=0). <br>
+<u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Tong Chen, Jundong Li, Zi Huang
+
 
 <h3>Tutorials</h3>
 
 + [Self-Supervised Learning in Recommendation: Fundamentals and Advances]().  <i><b>WWW'22</b></i> [[website]](https://ssl-recsys.github.io/) <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Tong Chen
   
-<h3>Preprints</h3>
-
-+ [Graph Augmentation-Free Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679).  [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/GACL.py) <br>
-<u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Lizhen Cui, Quoc Viet Hung Nguyen
-+ [Self-Supervised Learning for Recommender Systems: A Survey](https://www.dropbox.com/sh/n0c8rj9046mmhc2/AABloIlr8Qg4YOcd1SghXiiea?dl=0). <br>
-<u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Tong Chen, Jundong Li, Zi Huang
-
