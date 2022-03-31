@@ -11,7 +11,7 @@ You can find my full publication on my [Google Scholar profile](https://scholar.
 
 <h3>Conference Paper</h3>
 
-+ [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation	](https://arxiv.org/abs/2112.08679).  <i><b>SIGIR'22</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/SimGCL.py) <br>
++ [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679).  <i><b>SIGIR'22</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/SimGCL.py) <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Lizhen Cui, Quoc Viet Hung Nguyen
 + [	On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation]().  <i><b>SIGIR'22</b></i> [[code]]() <br>
 Xin Xia, Hongzhi Yin, <u>Junliang Yu</u>, Qinyong Wang, Guandong Xu, Quoc Viet Hung Nguyen
@@ -39,9 +39,7 @@ Qinyong Wang, Hongzhi Yin, Tong Chen, <u>Junliang Yu</u>, Alexander Zhou, Xiangl
 
 <h3>Preprints</h3>
 
-+ [Graph Augmentation-Free Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679).  [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/GACL.py) <br>
-<u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Lizhen Cui, Quoc Viet Hung Nguyen
-+ [Self-Supervised Learning for Recommender Systems: A Survey](http://arxiv.org/abs/2203.15876). <br>
++ [Self-Supervised Learning for Recommender Systems: A Survey](http://arxiv.org/abs/2203.15876). submitted to <i><b>TKDE</b></i> <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Tong Chen, Jundong Li, Zi Huang
 
 
