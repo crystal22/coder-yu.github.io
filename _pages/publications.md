@@ -13,7 +13,7 @@ You can find my full publication on my [Google Scholar profile](https://scholar.
 
 + [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679).  <i><b>SIGIR'22</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/SimGCL.py) <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Tong Chen, Lizhen Cui, Quoc Viet Hung Nguyen
-+ [	On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation]().  <i><b>SIGIR'22</b></i> [[code]]() <br>
++ [	On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation](https://arxiv.org/abs/2204.11091).  <i><b>SIGIR'22</b></i> [[code]](https://github.com/xiaxin1998/OD-Rec) <br>
 Xin Xia, Hongzhi Yin, <u>Junliang Yu</u>, Qinyong Wang, Guandong Xu, Quoc Viet Hung Nguyen
 + [Self-Supervised Graph Co-Training for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3459637.3482388).  <i><b>CIKM'21</b></i> [[code]](https://github.com/xiaxin1998/COTREC) <br>
 Xin Xia, Hongzhi Yin, <u>Junliang Yu</u>, Yingxia Shao, Lizhen Cui
