@@ -30,10 +30,17 @@ Hi! This is Junliang Yu, a third-year Ph.D. student of Computer Science at The U
 + INFS7450 at The University of Queensland - Social Media Analytics. (Semester 1, 2020, Tutor)
 
 
-## Featured Project
+## Featured Projects
 <a href="https://github.com/Coder-Yu/QRec"> <img src="https://raw.githubusercontent.com/Coder-Yu/QRec/master/logo.png" width="290px" alt="logo" border="0"></a><br>
 <p float="left"> <a href="https://github.com/Coder-Yu/QRec/stargazers"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Coder-Yu/QRec"/> </a> <a href="https://github.com/Coder-Yu/QRec/network/members"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/Coder-Yu/QRec"/> </a> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Coder-Yu/QRec"></p> 
 <p>QRec is a Python framework for recommender systems (Supported by Python 3.7.4 and Tensorflow 1.14+) in which a number of influential and newly state-of-the-art recommendation models are implemented. QRec has a lightweight architecture and provides user-friendly interfaces. It can facilitate model implementation and evaluation.</p>
+
+&nbsp;
+&nbsp;
+
+<a href="https://github.com/Coder-Yu/SELFRec"> <img src="https://camo.githubusercontent.com/5f6ed86b753b3cf95b03b3a53fc7c408d6750005742f4df0a1727feeba0525e3/68747470733a2f2f692e6962622e636f2f35347654597a6b2f73736c2d6c6f676f2e706e67" alt="logo" width=300 border="0"></a><br>
+<p float="left"> <a href="https://github.com/Coder-Yu/SELFRec/stargazers"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Coder-Yu/SELFRec"/> </a> <a href="https://github.com/Coder-Yu/SELFRec/network/members"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/Coder-Yu/SELFRec"/> </a> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Coder-Yu/SELFRec"></p> 
+SELFRec is a Python framework for self-supervised recommendation (SSR) which integrates commonly used datasets and metrics, and implements many state-of-the-art SSR models. SELFRec has a lightweight architecture and provides user-friendly interfaces. It can facilitate model implementation and evaluation.
 
 <hr>
 <a href='https://clustrmaps.com/site/1bm0c'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=4z_JS_ux0K7E2Nkh4jSJlCMC4Xi0JNIiy1ykUPk_i4g&co=2d78ad&ct=ffffff'/></a>
