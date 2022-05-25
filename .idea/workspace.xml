@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9253bf9-55b8-44f3-a10a-9cfcd40dd2df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_masthead.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_page.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,21 +119,11 @@
       <workItem from="1640945074662" duration="3520000" />
       <workItem from="1641086663472" duration="793000" />
       <workItem from="1641182553915" duration="2675000" />
-      <workItem from="1641342213276" duration="2745000" />
-    </task>
-    <task id="LOCAL-00046" summary="initialization">
-      <created>1640625690863</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1640625690863</updated>
-    </task>
-    <task id="LOCAL-00047" summary="initialization">
-      <created>1640625774280</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1640625774280</updated>
+      <workItem from="1641342213276" duration="3544000" />
+      <workItem from="1641894774432" duration="675000" />
+      <workItem from="1641991175846" duration="639000" />
+      <workItem from="1649900736394" duration="1575000" />
+      <workItem from="1653498861980" duration="1017000" />
     </task>
     <task id="LOCAL-00048" summary="initialization">
       <created>1640625855479</created>
@@ -462,7 +454,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641461445258</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="initialization">
+      <created>1641461575558</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1641461575558</updated>
+    </task>
+    <task id="LOCAL-00096" summary="add seo">
+      <created>1649901729607</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1649901729607</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,28 +476,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialization" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialization" />
+    <MESSAGE value="add seo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add seo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="523" y="124" key="CommitChangelistDialog2" timestamp="1641461443999">
+    <state x="523" y="124" key="CommitChangelistDialog2" timestamp="1649901728452">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="523" y="124" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1641461443999" />
-    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1641135642979">
+    <state x="523" y="124" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1649901728452" />
+    <state x="591" y="277" key="Vcs.Push.Dialog.v2" timestamp="1649901731715">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1641135642979" />
-    <state x="591" y="277" key="Vcs.Push.Dialog.v2" timestamp="1641461446534">
+    <state x="591" y="277" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1649901731715" />
+    <state x="732" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1653498867027">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="591" y="277" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1641461446534" />
-    <state x="643" y="273" width="634" height="534" key="find.popup" timestamp="1641346227311">
+    <state x="732" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1653498867027" />
+    <state x="643" y="273" width="1073" height="764" key="find.popup" timestamp="1649901685403">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="643" y="273" width="634" height="534" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1641346227311" />
-    <state x="726" y="434" key="git4idea.ui.GitResetDialog" timestamp="1640542252965">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="726" y="434" key="git4idea.ui.GitResetDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1640542252965" />
+    <state x="643" y="273" width="1073" height="764" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1649901685403" />
   </component>
 </project>
